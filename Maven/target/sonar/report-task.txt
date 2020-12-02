@@ -1,7 +1,0 @@
-projectKey=gitlab
-serverUrl=https://chvd.eu.ngrok.io
-serverVersion=8.5.0.36192
-branch=feature/gitlab-feature
-dashboardUrl=https://chvd.eu.ngrok.io/dashboard?id=gitlab&branch=feature%2Fgitlab-feature
-ceTaskId=AXPDJJ_A9Hm3tEARAwQE
-ceTaskUrl=https://chvd.eu.ngrok.io/api/ce/task?id=AXPDJJ_A9Hm3tEARAwQE
