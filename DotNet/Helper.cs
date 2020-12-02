@@ -29,5 +29,6 @@ public static class Helper {
         public static void DoNothing(){
             Environment.GetEnvironmentVariable("postgre_connection");
         }
+        // useless comment
 }
 }
